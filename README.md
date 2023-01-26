@@ -1,1 +1,1 @@
-# PythonProjects_GUI
+# Python GUI based projects
